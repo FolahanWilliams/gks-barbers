@@ -70,7 +70,7 @@ export default function Home() {
         {/* Background Image with Overlay */}
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.unsplash.com/photo-1585747860136-15fb86ec18bc?auto=format&fit=crop&q=80&w=1920"
+            src="https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&q=80&w=1920"
             alt="Interior of GK's Barbershop"
             fill
             className="object-cover object-center"
